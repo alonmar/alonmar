@@ -5,8 +5,8 @@ I'm Economist and Data scientist:
 
 - 😍 I love learning 
 - 🌱 I’m currently learning MLOps
-- 2022 Goals:
-  - 🤓 Be more active on github
+- 2023 Goals:
+  - 🤓 best mlops skills
 - 🤔 I’m looking for help with the development flow of a machine learning project
 - 💬 Ask me about R, Machine Learning, Python and cryptocurrencies
 - ⚡ Fun fact: I can identify many star constellations ✨✨
